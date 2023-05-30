@@ -1,0 +1,5 @@
+rpaframework==23.0.0
+pymysql
+python-dotenv
+selenium
+openpyxl
